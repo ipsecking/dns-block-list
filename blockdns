@@ -1,3 +1,10 @@
+#########################################################
+# Social Media & Entertainment Block List
+#########################################################
+
+##########################
+# Facebook / Meta
+##########################
 facebook.com
 www.facebook.com
 fbcdn.net
@@ -6,29 +13,135 @@ instagram.com
 cdninstagram.com
 threads.net
 
+##########################
+# X (Twitter)
+##########################
 twitter.com
 x.com
 twimg.com
 
+##########################
+# TikTok
+##########################
 tiktok.com
 tiktokcdn.com
 byteoversea.com
 
+##########################
+# Reddit
+##########################
 reddit.com
 redd.it
 redditmedia.com
 
+##########################
+# Snapchat
+##########################
 snapchat.com
 sc-cdn.net
 
+##########################
+# LinkedIn
+##########################
 linkedin.com
 licdn.com
 
+##########################
+# Discord
+##########################
 discord.com
 discord.gg
 
+##########################
+# Telegram
+##########################
 telegram.org
 t.me
 
+##########################
+# Pinterest
+##########################
 pinterest.com
 pinimg.com
+
+##########################
+# Bluesky
+##########################
+bsky.app
+
+##########################
+# Mastodon
+##########################
+mastodon.social
+
+##########################
+# BeReal
+##########################
+bere.al
+
+##########################
+# Truth Social
+##########################
+truthsocial.com
+
+##########################
+# WhatsApp
+##########################
+whatsapp.com
+web.whatsapp.com
+
+##########################
+# WeChat
+##########################
+wechat.com
+
+#########################################################
+# Video Streaming
+#########################################################
+
+##########################
+# YouTube
+##########################
+youtube.com
+www.youtube.com
+m.youtube.com
+youtu.be
+youtube-nocookie.com
+www.youtube-nocookie.com
+googlevideo.com
+ytimg.com
+youtubei.googleapis.com
+youtube.googleapis.com
+music.youtube.com
+tv.youtube.com
+studio.youtube.com
+youtubekids.com
+www.youtubekids.com
+
+##########################
+# Twitch
+##########################
+twitch.tv
+www.twitch.tv
+ttvnw.net
+jtvnw.net
+
+##########################
+# Vimeo
+##########################
+vimeo.com
+player.vimeo.com
+
+#########################################################
+# AI Services
+##########################################################
+
+chatgpt.com
+openai.com
+claude.ai
+anthropic.com
+gemini.google.com
+copilot.microsoft.com
+perplexity.ai
+character.ai
+grok.com
